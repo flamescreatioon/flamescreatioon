@@ -139,11 +139,11 @@ graph LR
 
 ## 📊 GitHub Stats & Activity
 
-![Flames's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flamescreatioon&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flamescreatioon&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flamescreatioon&layout=compact&theme=radical)  ![GitHub Streak](https://streak-stats.demolab.com?user=flamescreatioon&theme=radical&hide_border=true)  
 
 ![Flames's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=flamescreatioon&theme=react-dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=flamescreatioon&theme=radical&hide_border=true)  
+
 
 ---
 
