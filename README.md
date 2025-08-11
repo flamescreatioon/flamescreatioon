@@ -170,6 +170,50 @@ classDiagram
     Skillset "1" -- "1..*" Tools : operates
 ```
 
+```mermaid
+graph TD
+    subgraph Core Expertise [Daily Use & High Proficiency]
+        direction LR
+        S1[React.js]
+        S2[TypeScript]
+        S3[Node.js]
+        S4[Git & GitHub]
+        S5[PostgreSQL]
+        S6[Docker]
+    end
+
+    subgraph Specialized Tools [Occasional Use & High Proficiency]
+        direction LR
+        T1[Next.js]
+        T2[GraphQL]
+        T3[Python]
+        T4[CI/CD]
+        T5[Nginx]
+    end
+    
+    subgraph Foundational Knowledge [Daily Use & Competent]
+        direction LR
+        U1[SQL]
+        U2[JavaScript]
+        U3[TailwindCSS]
+        U4[Figma]
+    end
+
+    subgraph Broad Skills [Occasional Use & Competent]
+        direction LR
+        V1[Flutter]
+        V2[C++]
+        V3[Java]
+        V4[OpenAI API]
+        V5[Adobe Suite]
+    end
+
+    style Core Expertise fill:#e8f5e9,stroke:#4caf50
+    style Specialized Tools fill:#e3f2fd,stroke:#2196f3
+    style Foundational Knowledge fill:#fff3e0,stroke:#ff9800
+    style Broad Skills fill:#fce4ec,stroke:#e91e63
+```
+
 ## 📌 Featured Projects
 
 - **🏠 Housing Platform (P2P + Escrow)** – A secure property rental/purchase system with KYC verification & Supabase backend.  
