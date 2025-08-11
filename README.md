@@ -39,41 +39,64 @@ I’m passionate about crafting **beautiful, functional, and impactful** digital
 
 Here's a visual overview of my skills and projects.
 
-```mermaid
-graph TD
-    A["🏆 AlexDev's GitHub Portfolio"] --> B["🌐 Web Development"];
-    A --> C["🔬 Data Science"];
-    A --> D["🚀 DevOps & Tools"];
-    A --> E["🌱 Future Goals"];
-
-    subgraph Web Development
-        B1["Project: Portfolio Site (React, Next.js)"];
-        B2["Project: E-commerce API (Node.js, Express, PostgreSQL)"];
-    end
-
-    subgraph Data Science
-        C1["Project: Stock Predictor (Python, Pandas, Scikit-learn)"];
-        C2["Contribution: Open-Source ML Library"];
-    end
-
-    subgraph DevOps & Tools
-        D1["Skill: Docker"];
-        D2["Skill: GitHub Actions"];
-        D3["Tool: dotfiles Repository"];
-    end
-
-    subgraph Future Goals
-        E1["Learn: Go & Rust"];
-        E2["Build: Real-time Chat App"];
-    end
-
-    A ~~~ B
-    B ~~~ C
-    C ~~~ D
-    D ~~~ E
-
-    style A fill:#007bff,stroke:#333,stroke-width:2px,color:#fff
-```
+mindmap
+  root((My Skillset))
+    (🛠 Languages)
+      (JavaScript)
+      (TypeScript)
+      (Python)
+      (C++)
+      (Dart)
+      (PHP)
+      (Java)
+      (C#)
+      (SQL)
+      (NoSQL - MongoDB)
+    (📦 Frameworks & Libraries)
+      (React.js)
+      (Node.js)
+      (Express.js)
+      (Flutter)
+      (Supabase)
+      (TailwindCSS)
+      (GraphQL)
+      (Firebase)
+      (Next.js)
+      (Socket.IO)
+      (PWA APIs)
+    (⚙️ Tools & Platforms)
+      (Docker)
+      (Git & GitHub)
+      (CI/CD - GitHub Actions)
+      (Postman)
+      (Vercel)
+      (Heroku)
+      (Netlify)
+      (Railway)
+      (Render)
+      (Nginx)
+    (🤖 Automation & AI)
+      (n8n)
+      (Twilio)
+      (OpenAI API)
+      (Pinecone)
+      (LangChain)
+      (Whisper)
+      (Zapier)
+    (🎨 Design & Creative)
+      (Figma)
+      (Adobe XD)
+      (Adobe Illustrator)
+      (Adobe Photoshop)
+      (Canva)
+      (Motion Graphics)
+    (🗄 Databases)
+      (MongoDB)
+      (PostgreSQL)
+      (MySQL)
+      (Supabase)
+      (Firebase Firestore)
+      (SQLite)
 
 
 
