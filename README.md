@@ -40,90 +40,89 @@ I’m passionate about crafting **beautiful, functional, and impactful** digital
 Here's a visual overview of my skills and projects.
 
 ```mermaid
-graph TD
-    A["🏆 My Skillset"] --> B["🛠 Languages"];
-    A --> C["📦 Frameworks & Libraries"];
-    A --> D["⚙️ Tools & Platforms"];
-    A --> E["🤖 Automation & AI"];
-    A --> F["🎨 Design & Creative"];
-    A --> G["🗄️ Databases"];
+graph LR
+    %% --- Central Node ---
+    A((🏆 My Skillset))
 
+    %% --- Category Nodes ---
+    B[🛠 Languages]
+    C[📦 Frameworks & Libraries]
+    D[⚙️ Tools & Platforms]
+    E[🤖 Automation & AI]
+    F[🎨 Design & Creative]
+    G[🗄️ Databases]
+
+    %% --- Primary Spokes ---
+    A --> B
+    A --> C
+    A --> D
+    A --> E
+    A --> F
+    A --> G
+
+    %% --- Mesh Connections (Linking Categories) ---
+    C -- uses --> B
+    C -- queries --> G
+    D -- deploys --> C
+    E -- built with --> B
+
+    %% --- Skill Nodes (connected to categories) ---
     subgraph Languages
-        B1["JavaScript"];
-        B2["TypeScript"];
-        B3["Python"];
-        B4["C++"];
-        B5["Dart"];
-        B6["PHP"];
-        B7["Java"];
-        B8["C#"];
-        B9["SQL"];
-        B10["NoSQL (MongoDB)"];
+        B --> B1[JavaScript]
+        B --> B2[TypeScript]
+        B --> B3[Python]
+        B --> B4[C++]
+        B --> B5[Dart]
+        B --> B6[SQL]
     end
 
     subgraph Frameworks & Libraries
-        C1["React.js"];
-        C2["Node.js"];
-        C3["Express.js"];
-        C4["Flutter"];
-        C5["Supabase"];
-        C6["TailwindCSS"];
-        C7["GraphQL"];
-        C8["Firebase"];
-        C9["Next.js"];
-        C10["Socket.IO"];
-        C11["PWA APIs"];
-    end
-
-    subgraph Tools & Platforms
-        D1["Docker"];
-        D2["Git & GitHub"];
-        D3["CI/CD (GitHub Actions)"];
-        D4["Postman"];
-        D5["Vercel"];
-        D6["Heroku"];
-        D7["Netlify"];
-        D8["Railway"];
-        D9["Render"];
-        D10["Nginx"];
-    end
-
-    subgraph Automation & AI
-        E1["n8n"];
-        E2["Twilio"];
-        E3["OpenAI API"];
-        E4["Pinecone"];
-        E5["LangChain"];
-        E6["Whisper"];
-        E7["Zapier"];
-    end
-
-    subgraph Design & Creative
-        F1["Figma"];
-        F2["Adobe XD"];
-        F3["Adobe Illustrator"];
-        F4["Adobe Photoshop"];
-        F5["Canva"];
-        F6["Motion Graphics"];
+        C --> C1[React.js]
+        C --> C2[Node.js]
+        C --> C3[Next.js]
+        C --> C4[Flutter]
+        C --> C5[TailwindCSS]
+        C --> C6[GraphQL]
     end
 
     subgraph Databases
-        G1["MongoDB"];
-        G2["PostgreSQL"];
-        G3["MySQL"];
-        G4["Supabase (Postgres)"];
-        G5["Firebase Firestore"];
-        G6["SQLite"];
+        G --> G1[MongoDB]
+        G --> G2[PostgreSQL]
+        G --> G3[Supabase]
+        G --> G4[Firebase]
+        G --> G5[MySQL]
     end
 
-    A ~~~ B;
-    B ~~~ C;
-    C ~~~ D;
-    D ~~~ E;
-    E ~~~ F;
-    F ~~~ G;
+    subgraph Tools & Platforms
+        D --> D1[Docker]
+        D --> D2[Git & GitHub]
+        D --> D3[CI/CD]
+        D --> D4[Vercel]
+        D --> D5[Nginx]
+    end
 
-    style A fill:#3498db,stroke:#2c3e50,stroke-width:2px,color:white
+    subgraph Automation & AI
+        E --> E1[OpenAI API]
+        E --> E2[LangChain]
+        E --> E3[Pinecone]
+        E --> E4[n8n]
+    end
+
+    subgraph Design & Creative
+        F --> F1[Figma]
+        F --> F2[Adobe Suite]
+        F --> F3[Canva]
+    end
+
+    %% --- Styling ---
+    style A fill:#4CAF50,stroke:#333,stroke-width:3px,color:white
+    style B fill:#2196F3,color:white
+    style C fill:#9C27B0,color:white
+    style D fill:#795548,color:white
+    style E fill:#FF9800,color:white
+    style F fill:#E91E63,color:white
+    style G fill:#f44336,color:white
+   
 ```
 
 ## 📌 Featured Projects
