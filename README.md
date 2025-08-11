@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Flames
 
-🚀 **Student Designer | Full Stack Developer | Automation Enthusiast**
+🚀 **Full Stack Developer | Automation Specialist | Product Designer**
 
 I’m passionate about crafting **beautiful, functional, and impactful** digital experiences — from **web and mobile apps** to **automation systems** that save people hours of work. I blend design thinking with strong technical execution, and I’m always exploring ways to solve real-world problems with code.
 
@@ -9,15 +9,15 @@ I’m passionate about crafting **beautiful, functional, and impactful** digital
 ## 🔥 What I Do
 
 💻 **Web & Mobile Development**  
-- MERN / Flutter / Node.js / React / Supabase  
-- Progressive Web Apps, scalable APIs, and database-driven systems
+- MERN / Flutter / Node.js / React / Supabase / PostgresSQL 
+/ MongoDB / MySQL / React Native / PHP / Laravel  
+- Mobile Applications, Progressive Web Apps, scalable APIs, and database-driven systems
 
-🎨 **Design**  
-- UI/UX, branding, and creative visuals that connect with users  
-- Adobe XD, Figma, and motion graphics
+🎨 **UI/UX Design**  
+- Figma / Adobe XD / Miro / Jira 
 
 ⚙️ **Automation & AI Integration**  
-- n8n, Twilio, and workflow automation  
+- n8n, Make, Airtable  
 - AI-driven personalization and analytics
 
 ---
@@ -36,10 +36,10 @@ I’m passionate about crafting **beautiful, functional, and impactful** digital
 
 **Frameworks & Tools:**  
 `React` `Node.js` `Express` `Flutter` `Supabase` `MongoDB`  
-`TailwindCSS` `n8n` `Firebase` `MySQL`
+`TailwindCSS` `n8n` `Firebase` `MySQL` `React Native` `Laravel`
 
 **Design & Collaboration:**  
-`Figma` `Adobe Suite` `Notion` `Slack` `Trello`
+`Adobe Suite` `Notion` `Slack` `Trello`
 
 ---
 
@@ -57,8 +57,8 @@ I’m passionate about crafting **beautiful, functional, and impactful** digital
 ## 📫 Let’s Connect
 
 - **Portfolio:** [Coming Soon 🚧]  
-- **LinkedIn:** [linkedin.com/in/flames](https://linkedin.com/in/flames)  
-- **Twitter:** [twitter.com/flames_dev](https://twitter.com/flames_dev)  
+- **LinkedIn:** [https://www.linkedin.com/in/ugo-nelson-757811246/]
+- **Twitter:** [https://x.com/Flames_js]
 - **Email:** flames@example.com  
 
 ---
