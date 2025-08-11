@@ -125,6 +125,51 @@ graph LR
    
 ```
 
+```mermaid  
+classDiagram
+    direction LR
+
+    class Skillset {
+        +name: String
+        +yearsExperience: int
+    }
+
+    class Languages {
+        +JavaScript()
+        +TypeScript()
+        +Python()
+        +SQL()
+    }
+
+    class Frameworks {
+        <<Library>>
+        +React_js
+        +Node_js
+        +Next_js
+        +Flutter
+    }
+
+    class Databases {
+        +PostgreSQL
+        +MongoDB
+        +Firebase
+        +Supabase
+    }
+    
+    class Tools {
+        +Docker
+        +Git
+        +GitHub_Actions
+        +Vercel
+    }
+
+    Skillset "1" -- "1..*" Languages : knows
+    Skillset "1" -- "1..*" Frameworks : uses
+    Frameworks --|> Languages : built on
+    Skillset "1" -- "1..*" Databases : manages
+    Skillset "1" -- "1..*" Tools : operates
+```
+
 ## 📌 Featured Projects
 
 - **🏠 Housing Platform (P2P + Escrow)** – A secure property rental/purchase system with KYC verification & Supabase backend.  
