@@ -39,65 +39,90 @@ I’m passionate about crafting **beautiful, functional, and impactful** digital
 
 Here's a visual overview of my skills and projects.
 
-mindmap
-  root((My Skillset))
-    (🛠 Languages)
-      (JavaScript)
-      (TypeScript)
-      (Python)
-      (C++)
-      (Dart)
-      (PHP)
-      (Java)
-      (C#)
-      (SQL)
-      (NoSQL - MongoDB)
-    (📦 Frameworks & Libraries)
-      (React.js)
-      (Node.js)
-      (Express.js)
-      (Flutter)
-      (Supabase)
-      (TailwindCSS)
-      (GraphQL)
-      (Firebase)
-      (Next.js)
-      (Socket.IO)
-      (PWA APIs)
-    (⚙️ Tools & Platforms)
-      (Docker)
-      (Git & GitHub)
-      (CI/CD - GitHub Actions)
-      (Postman)
-      (Vercel)
-      (Heroku)
-      (Netlify)
-      (Railway)
-      (Render)
-      (Nginx)
-    (🤖 Automation & AI)
-      (n8n)
-      (Twilio)
-      (OpenAI API)
-      (Pinecone)
-      (LangChain)
-      (Whisper)
-      (Zapier)
-    (🎨 Design & Creative)
-      (Figma)
-      (Adobe XD)
-      (Adobe Illustrator)
-      (Adobe Photoshop)
-      (Canva)
-      (Motion Graphics)
-    (🗄 Databases)
-      (MongoDB)
-      (PostgreSQL)
-      (MySQL)
-      (Supabase)
-      (Firebase Firestore)
-      (SQLite)
+graph TD
+    A["🏆 My Skillset"] --> B["🛠 Languages"];
+    A --> C["📦 Frameworks & Libraries"];
+    A --> D["⚙️ Tools & Platforms"];
+    A --> E["🤖 Automation & AI"];
+    A --> F["🎨 Design & Creative"];
+    A --> G["🗄️ Databases"];
 
+    subgraph Languages
+        B1["JavaScript"];
+        B2["TypeScript"];
+        B3["Python"];
+        B4["C++"];
+        B5["Dart"];
+        B6["PHP"];
+        B7["Java"];
+        B8["C#"];
+        B9["SQL"];
+        B10["NoSQL (MongoDB)"];
+    end
+
+    subgraph Frameworks & Libraries
+        C1["React.js"];
+        C2["Node.js"];
+        C3["Express.js"];
+        C4["Flutter"];
+        C5["Supabase"];
+        C6["TailwindCSS"];
+        C7["GraphQL"];
+        C8["Firebase"];
+        C9["Next.js"];
+        C10["Socket.IO"];
+        C11["PWA APIs"];
+    end
+
+    subgraph Tools & Platforms
+        D1["Docker"];
+        D2["Git & GitHub"];
+        D3["CI/CD (GitHub Actions)"];
+        D4["Postman"];
+        D5["Vercel"];
+        D6["Heroku"];
+        D7["Netlify"];
+        D8["Railway"];
+        D9["Render"];
+        D10["Nginx"];
+    end
+
+    subgraph Automation & AI
+        E1["n8n"];
+        E2["Twilio"];
+        E3["OpenAI API"];
+        E4["Pinecone"];
+        E5["LangChain"];
+        E6["Whisper"];
+        E7["Zapier"];
+    end
+
+    subgraph Design & Creative
+        F1["Figma"];
+        F2["Adobe XD"];
+        F3["Adobe Illustrator"];
+        F4["Adobe Photoshop"];
+        F5["Canva"];
+        F6["Motion Graphics"];
+    end
+
+    subgraph Databases
+        G1["MongoDB"];
+        G2["PostgreSQL"];
+        G3["MySQL"];
+        G4["Supabase (Postgres)"];
+        G5["Firebase Firestore"];
+        G6["SQLite"];
+    end
+
+    A ~~~ B;
+    B ~~~ C;
+    C ~~~ D;
+    D ~~~ E;
+    E ~~~ F;
+    F ~~~ G;
+
+    style A fill:#3498db,stroke:#2c3e50,stroke-width:2px,color:white
 
 
 ## 📌 Featured Projects
