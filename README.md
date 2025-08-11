@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/flamescreatioon/flamescreatioon/raw/main/assets/banner.png" alt="Flames Banner" />
+</p>
+
+
 # 👋 Hi, I'm Flames
 
 🚀 **Full Stack Developer | Automation Specialist | Product Designer**
