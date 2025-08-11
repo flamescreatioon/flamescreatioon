@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/flamescreatioon/flamescreatioon/raw/main/assets/banner.png" alt="Flames Banner" />
-</p>
-
-
 # 👋 Hi, I'm Flames
 
 🚀 **Full Stack Developer | Automation Specialist | Product Designer**
@@ -38,6 +33,61 @@ I’m passionate about crafting **beautiful, functional, and impactful** digital
 **Design & Collaboration:**  
 `Adobe Suite` `Notion` `Slack` `Trello`
 
+---
+
+mindmap
+  root((Flames))
+    Web
+      MERN
+      PWA
+      APIs
+      Supabase
+      "SQL / NoSQL"
+      GraphQL
+    Mobile
+      Flutter
+      Dart
+      "Cross-platform"
+    Automation
+      n8n
+      Twilio
+      "Email / SMS"
+      "Workflow Templates"
+    AI
+      RAG
+      Pinecone
+      OpenAI
+      Embeddings
+      "Speech → Text"
+    Design
+      "UI/UX"
+      Figma
+      "Motion Graphics"
+      Prototyping
+    Languages
+      JavaScript
+      TypeScript
+      Python
+      C++
+      Dart
+      PHP
+      Java
+      C#
+    Tools
+      Node.js
+      React
+      Docker
+      Git
+      "CI / CD"
+    Projects
+      "Housing Platform (P2P + Escrow)"
+      "Buka Food App (QR + Real-time)"
+      "AI Booking Agent (Twilio + GPT)"
+      "Lead Gen Automation (n8n + AI)"
+    Goals
+      "Portfolio (showcase)"
+      "Open-source contributions"
+      "Freelance / Clients"
 ---
 
 ## 📌 Featured Projects
