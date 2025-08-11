@@ -39,6 +39,7 @@ I’m passionate about crafting **beautiful, functional, and impactful** digital
 
 Here's a visual overview of my skills and projects.
 
+```mermaid
 graph TD
     A["🏆 My Skillset"] --> B["🛠 Languages"];
     A --> C["📦 Frameworks & Libraries"];
@@ -123,7 +124,7 @@ graph TD
     F ~~~ G;
 
     style A fill:#3498db,stroke:#2c3e50,stroke-width:2px,color:white
-
+```
 
 ## 📌 Featured Projects
 
