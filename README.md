@@ -35,60 +35,47 @@ I’m passionate about crafting **beautiful, functional, and impactful** digital
 
 ---
 
-mindmap
-  root((Flames))
-    Web
-      MERN
-      PWA
-      APIs
-      Supabase
-      "SQL / NoSQL"
-      GraphQL
-    Mobile
-      Flutter
-      Dart
-      "Cross-platform"
-    Automation
-      n8n
-      Twilio
-      "Email / SMS"
-      "Workflow Templates"
-    AI
-      RAG
-      Pinecone
-      OpenAI
-      Embeddings
-      "Speech → Text"
-    Design
-      "UI/UX"
-      Figma
-      "Motion Graphics"
-      Prototyping
-    Languages
-      JavaScript
-      TypeScript
-      Python
-      C++
-      Dart
-      PHP
-      Java
-      C#
-    Tools
-      Node.js
-      React
-      Docker
-      Git
-      "CI / CD"
-    Projects
-      "Housing Platform (P2P + Escrow)"
-      "Buka Food App (QR + Real-time)"
-      "AI Booking Agent (Twilio + GPT)"
-      "Lead Gen Automation (n8n + AI)"
-    Goals
-      "Portfolio (showcase)"
-      "Open-source contributions"
-      "Freelance / Clients"
----
+### My Developer Mind Map
+
+Here's a visual overview of my skills and projects.
+
+```mermaid
+graph TD
+    A["🏆 AlexDev's GitHub Portfolio"] --> B["🌐 Web Development"];
+    A --> C["🔬 Data Science"];
+    A --> D["🚀 DevOps & Tools"];
+    A --> E["🌱 Future Goals"];
+
+    subgraph Web Development
+        B1["Project: Portfolio Site (React, Next.js)"];
+        B2["Project: E-commerce API (Node.js, Express, PostgreSQL)"];
+    end
+
+    subgraph Data Science
+        C1["Project: Stock Predictor (Python, Pandas, Scikit-learn)"];
+        C2["Contribution: Open-Source ML Library"];
+    end
+
+    subgraph DevOps & Tools
+        D1["Skill: Docker"];
+        D2["Skill: GitHub Actions"];
+        D3["Tool: dotfiles Repository"];
+    end
+
+    subgraph Future Goals
+        E1["Learn: Go & Rust"];
+        E2["Build: Real-time Chat App"];
+    end
+
+    A ~~~ B
+    B ~~~ C
+    C ~~~ D
+    D ~~~ E
+
+    style A fill:#007bff,stroke:#333,stroke-width:2px,color:#fff
+```
+
+
 
 ## 📌 Featured Projects
 
