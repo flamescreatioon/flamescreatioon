@@ -214,6 +214,17 @@ graph TD
     style Broad Skills fill:#fce4ec,stroke:#e91e63
 ```
 
+```mermaid
+pie
+    title Skill Distribution
+    "Languages" : 10
+    "Frameworks & Libraries" : 11
+    "Tools & Platforms" : 10
+    "Automation & AI" : 7
+    "Design & Creative" : 6
+    "Databases" : 6
+```
+
 ## 📌 Featured Projects
 
 - **🏠 Housing Platform (P2P + Escrow)** – A secure property rental/purchase system with KYC verification & Supabase backend.  
