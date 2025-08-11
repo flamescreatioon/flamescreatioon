@@ -28,8 +28,7 @@ I’m passionate about crafting **beautiful, functional, and impactful** digital
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=fff)  
 
 **Frameworks & Tools:**  
-`React` `Node.js` `Express` `Flutter` `Supabase` `MongoDB`  
-`TailwindCSS` `n8n` `Firebase` `MySQL` `React Native` `Laravel`
+`React` `Node.js` `Express` `Flutter` `Supabase` `MongoDB` `TailwindCSS` `n8n` `Firebase` `MySQL` `React Native` `Laravel`
 
 **Design & Collaboration:**  
 `Adobe Suite` `Notion` `Slack` `Trello`
@@ -45,6 +44,16 @@ I’m passionate about crafting **beautiful, functional, and impactful** digital
 
 *(More in my repos — feel free to explore!)*
 
+## 📊 GitHub Stats & Activity
+
+![Flames's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flamescreatioon&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=flamescreatioon&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flamescreatioon&layout=compact&theme=radical)
+
+---
+
 ---
 
 ## 📫 Let’s Connect
@@ -52,7 +61,7 @@ I’m passionate about crafting **beautiful, functional, and impactful** digital
 - **Portfolio:** [Coming Soon 🚧]  
 - **LinkedIn:** [https://www.linkedin.com/in/ugo-nelson-757811246/]
 - **Twitter:** [https://x.com/Flames_js]
-- **Email:** flames@example.com  
+- **Email:** donflames@gmail.com
 
 ---
 
