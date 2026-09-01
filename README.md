@@ -36,7 +36,9 @@ I’m passionate about crafting **beautiful, functional, and impactful** digital
 
 ## 📊 GitHub Stats & Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flamescreatioon&layout=compact&theme=radical)  <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=flamescreatioon&theme=radical&hide_border=true)   -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flamescreatioon&layout=compact&theme=radical)  
+
+Streak![GitHub Streak](https://streak-stats.demolab.com?user=flamescreatioon&theme=radical&hide_border=true)
 
 ![Flames's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=flamescreatioon&theme=react-dark&hide_border=true)
 
